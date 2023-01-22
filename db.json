@@ -1,0 +1,17 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "content": "Un grand pouvoir implique de grandes responsabilités",
+      "category": "inspirational"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Uncle Ben",
+      "fictional": true
+    }
+  ]
+}
