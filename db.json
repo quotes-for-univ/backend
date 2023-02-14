@@ -5,12 +5,84 @@
       "authorId": 1,
       "content": "Un grand pouvoir implique de grandes responsabilités",
       "category": "inspirational"
+    },
+    {
+      "id": 2,
+      "authorId": 2,
+      "content": "Votre manque de foi me consterne",
+      "category": "Authoritative"
+    },
+    {
+      "id": 3,
+      "authorId": 2,
+      "content": "Non, je suis ton père",
+      "category": "Revelation"
+    },
+    {
+      "id": 4,
+      "authorId": 2,
+      "content": "test"
+    },
+    {
+      "authorId": 2,
+      "content": "test",
+      "id": "b03d276f-d361-4583-adba-f638ae44446c"
+    },
+    {
+      "content": "ffzefzefzef",
+      "authorId": 1,
+      "id": "78284d3b-882b-41c8-b6d5-2fd6229e741a"
+    },
+    {
+      "content": "testest",
+      "authorId": 1,
+      "id": "f46be33d-e029-4f50-9b9e-f124148ed10d"
+    },
+    {
+      "content": "test2",
+      "authorId": 1,
+      "id": "edc2ec2d-b205-4ac4-b1d9-4e1ef86fb44b"
+    },
+    {
+      "content": "test24",
+      "authorId": 1,
+      "id": "b5f4d17a-8709-481f-8237-cacd5390e1b7"
+    },
+    {
+      "content": "test31",
+      "authorId": 1,
+      "id": "c4179a3f-23a8-4035-9d5c-6626affd3b21"
+    },
+    {
+      "content": "test40",
+      "authorId": 1,
+      "id": "aff57f6a-f17a-4e22-84af-30f4b89d3699"
+    },
+    {
+      "content": "grgrgr",
+      "authorId": 1,
+      "id": "14ae63cc-80c7-4782-9f23-3ae69a2b8220"
+    },
+    {
+      "content": "test58",
+      "authorId": 1,
+      "id": "7b05ac3a-94bf-497d-8e1e-c77e169be542"
+    },
+    {
+      "content": "testrerere",
+      "authorId": 1,
+      "id": "92ace4a2-5480-4400-b53c-f11466bf9849"
     }
   ],
   "authors": [
     {
       "id": 1,
       "name": "Uncle Ben",
+      "fictional": true
+    },
+    {
+      "id": 2,
+      "name": "Darth Vader",
       "fictional": true
     }
   ]
